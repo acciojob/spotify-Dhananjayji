@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver.Model;
 
 import java.util.Date;
 import java.util.List;
